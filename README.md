@@ -1,4 +1,2 @@
-### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4sima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<h1 align="center">Hello Friends✋</h1>
+<div align="center" ><img src="https://github.githubassets.com/images/mona-loading-dark.gif"/></div>
